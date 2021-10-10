@@ -46,3 +46,10 @@ form .form-inner h2 {
   background-color: #0ABAB5;
 
 } 
+form .form-inner .error {
+  color: red;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
